@@ -643,3 +643,6 @@ ul.icon-list li {
 	display: flex;
 	margin-top: 10px;
 }
+.navbar-header{
+	display: flex;
+}
